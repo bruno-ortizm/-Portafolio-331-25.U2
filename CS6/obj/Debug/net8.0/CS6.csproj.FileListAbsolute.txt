@@ -1,0 +1,14 @@
+/Users/brunoortiz/Desktop/CSharp/CS6/bin/Debug/net8.0/CS6
+/Users/brunoortiz/Desktop/CSharp/CS6/bin/Debug/net8.0/CS6.deps.json
+/Users/brunoortiz/Desktop/CSharp/CS6/bin/Debug/net8.0/CS6.runtimeconfig.json
+/Users/brunoortiz/Desktop/CSharp/CS6/bin/Debug/net8.0/CS6.dll
+/Users/brunoortiz/Desktop/CSharp/CS6/bin/Debug/net8.0/CS6.pdb
+/Users/brunoortiz/Desktop/CSharp/CS6/obj/Debug/net8.0/CS6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunoortiz/Desktop/CSharp/CS6/obj/Debug/net8.0/CS6.AssemblyInfoInputs.cache
+/Users/brunoortiz/Desktop/CSharp/CS6/obj/Debug/net8.0/CS6.AssemblyInfo.cs
+/Users/brunoortiz/Desktop/CSharp/CS6/obj/Debug/net8.0/CS6.csproj.CoreCompileInputs.cache
+/Users/brunoortiz/Desktop/CSharp/CS6/obj/Debug/net8.0/CS6.dll
+/Users/brunoortiz/Desktop/CSharp/CS6/obj/Debug/net8.0/refint/CS6.dll
+/Users/brunoortiz/Desktop/CSharp/CS6/obj/Debug/net8.0/CS6.pdb
+/Users/brunoortiz/Desktop/CSharp/CS6/obj/Debug/net8.0/CS6.genruntimeconfig.cache
+/Users/brunoortiz/Desktop/CSharp/CS6/obj/Debug/net8.0/ref/CS6.dll
